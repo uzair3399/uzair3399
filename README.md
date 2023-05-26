@@ -1,3 +1,4 @@
+![logo](https://github.com/uzair3399/uzair3399/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Uzair Bagwan</h1>
 <h3 align="center">A passionate and aspiring DevOps Engineer form India</h3>
 
